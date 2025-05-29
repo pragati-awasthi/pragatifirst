@@ -1,5 +1,5 @@
 # pragatifirst
 this is my first repository
-<brr>
+<br>
 auther-
 pragati
